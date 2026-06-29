@@ -8,6 +8,6 @@
 ---
 ให้ระบุข้อมูลของ นศ. และ URL ของ Github Pages ไว้ด้านล่างนี้
 
-- ชื่อ-สกุล:
-- รหัสนักศึกษา:
-- <strong>GITHUB PAGE URL : </strong>
+- ชื่อ-สกุล: ปัณณวัฒน์ วงษ์แก้วจันทร์
+- รหัสนักศึกษา: 680610694
+- <strong>GITHUB PAGE URL :  https://mingsa405-lgtm.github.io/lab03/ </strong>
